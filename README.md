@@ -1,5 +1,6 @@
 # ds-matheus-holanda
 Desenvolvimento de Softwares por Davi Vilar e João Siles
 
-Arquivos referentes ao segundo semestre
--conexao
+# Arquivos referentes ao segundo semestre
+# Conexão
+- Atividade relacionada a conexão do Java a um banco SQL - Produzida no dia 18/08/2025
